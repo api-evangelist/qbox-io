@@ -1,0 +1,53 @@
+{
+    "name": "Qbox.io",
+    "description": "<p>Qbox.io provides search-as-a-service tools to developers with hosted solutions, professional support, dedicated instances, and custom deployments. The foundational hosted Elasticsearch product, Qbox.io, provides dedicated clusters on one of 13 datacenters on 5 continents. Made by developers, for developers who are constructing search applications, Qbox eliminates the need for developers to install, maintain, patch, monitor, and scale their search infrastructure. The cluster can be provisioned in minutes.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/qbox-logo.png",
+    "tags": [
+        "elasticsearch",
+        "have api",
+        "search"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/qbox-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Qbox.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/qbox-logo.png",
+            "humanURL": "http:\/\/qbox.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/qbox-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.qbox.io\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.qbox.io\/rss.xml"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/qbox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/qboxio"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/qbox.io\/"
+        }
+    ]
+}
